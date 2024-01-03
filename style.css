@@ -1,0 +1,44 @@
+.box2 {
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    border: 5px solid #2ecc71;
+    padding: 10px;
+  }
+
+  .box1 {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    box-shadow: 5px 5px 10px #888888;
+  }
+   
+  a:link {
+    color: blue;
+  }
+  
+  a:visited {
+    color: purple;
+  }
+  
+  a:hover {
+    color: red;
+  }
+  
+  a:active {
+    color: green;
+  }
+  
+  .float-left {
+    float: left;
+      width: 50%;
+      background-color: #3498db;
+      padding: 20px;
+      box-sizing: border-box;
+  }
+  
+  .float-right {
+    float: right;
+    width: 50%;
+  }
+  
